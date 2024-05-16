@@ -1,0 +1,7 @@
+agencies:
+  - name: "Bus"
+    id: "00000000-0000-0000-0000-000000000000"
+    schedule:
+      url: "https://bus.org/schedule.zip"
+    realtime:
+      url: "https://bus.org/realtime.pb"
